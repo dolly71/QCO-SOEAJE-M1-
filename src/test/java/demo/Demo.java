@@ -3,7 +3,7 @@ package demo;
 public class Demo {
 
 	public static void main(String[] args) {
-System.out.println("updated one");
+System.out.println("updated version");
 	}
 
 }
